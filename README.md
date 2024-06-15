@@ -150,7 +150,7 @@ to find out about infections in time.
 - HTML
   -  [W3C validator](https://validator.w3.org/nu/?).
 - CSS
-  -  [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?) 
+  -  2 issues and 1 warning [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?) 
 - JS
   - No errors was returned for JS, but 41 warnings, in the same style about ES6 [(Jigsaw) validator](https://jshint.com/).
 
